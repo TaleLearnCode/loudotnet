@@ -1,6 +1,6 @@
 # Louisville .NET Meetup May 2024
 
-![thumbnail](./../../../../../Presentations/EssentialSoftwareDesignPatterns/thumbnail.jpg)
+![Essential Software Design Patterns)](./assets/thumbnail-2024-05.jpg)
 
 ## Essential Software Design Patterns
 

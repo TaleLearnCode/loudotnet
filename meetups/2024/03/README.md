@@ -1,6 +1,6 @@
 # Louisville .NET Meetup March 2024
 
-![Accessibility Testing with Screen Readers & More](./assets/Accessibility Testing with Screen Readers _ More (1).jpg)
+![Accessibility Testing with Screen Readers & More](./assets/thumbnail-2024-03.jpg)
 
 ## Accessibility Testing with Screen Readers & More
 

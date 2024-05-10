@@ -1,6 +1,6 @@
 # Louisville .NET Meetup April 2024
 
-![Finding Bigfoot with JavaScript + Vector Search)](./assets/Finding Bigfoot with JavaScript _ Vector Search (1).jpg)
+![Finding Bigfoot with JavaScript + Vector Search)](./assets/thumbnail-2024-04.jpg)
 
 ## Finding Bigfoot with JavaScript + Vector Search
 

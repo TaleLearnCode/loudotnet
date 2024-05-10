@@ -1,6 +1,6 @@
 # Louisville .NET Meetup July 2024
 
-![Empowering AI (1)](./assets/Empowering AI (1).jpg)
+![Empowering AI: Navigating Microsoft's Tools and Technologies](./assets/thumbnail-2024-07.jpg)
 
 ## Employing AI: Navigating Microsoft's Tools and Technologies
 

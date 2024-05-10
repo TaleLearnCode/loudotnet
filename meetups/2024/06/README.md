@@ -1,6 +1,6 @@
 # Louisville .NET Meetup June 2024
 
-![build-awesome-console-applications](./assets/build-awesome-console-applications.jpg)
+![build-awesome-console-applications](./assets/thumbnail-2024-06.jpg)
 
 ## Build Awesome Console Applications Using Spectre.Console
 

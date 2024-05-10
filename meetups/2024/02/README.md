@@ -1,6 +1,6 @@
 # Louisville .NET Meetup February 2024
 
-![Design for Non-Designers from a Non-Designer](./assets/Design for Non-Designers from a Non-Designer (1).jpg)
+![Design for Non-Designers from a Non-Designer](./assets/thumbnail-2024-02.jpg)
 
 ## Design for Non-Designers from a Non-Designer
 
