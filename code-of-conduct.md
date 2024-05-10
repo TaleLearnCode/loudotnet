@@ -1,6 +1,6 @@
 # Code of Conduct
 
-As a participant of the Louisville .NET Meetup, we want to create a friendly and welcoming environment for everyone involved. We value the diversity of our community and encourage respectful and constructive interactions among members.
+As participants in the Louisville .NET Meetup, we want to create a friendly and welcoming environment for everyone. We value the diversity of our community and encourage respectful and constructive interactions among members.
 
 ## Expected Behavior
 
@@ -24,7 +24,7 @@ The following behaviors are considered unacceptable and will not be tolerated:
 
 ## Reporting Violations
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it to the organizers immediately. You can reach out to us via email@example.com or in person during the meetup.
+If you experience or witness any behavior that violates this Code of Conduct, please report it to the organizers immediately. You can contact us via [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com) or in person during the meetup.
 
 All reports will be taken seriously and investigated promptly. We are committed to maintaining a safe and welcoming environment for everyone in our community.
 

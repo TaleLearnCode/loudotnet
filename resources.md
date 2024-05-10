@@ -2,50 +2,31 @@
 
 ## Books
 
-- Title
+- [Pro C# 10 with .NET 6: Foundation Principles and Practices in Programming](https://a.co/d/3dDmozV)
+  - **Authors**: Andrew Toeslan and Phil Japikse
+  - **Description**: This book offers comprehensive guidance on mastering the C# programming language and leveraging the latest features of .NET 6. It covers essential concepts and best practices for building robust software applications.
+- [Pro Microservices in .NET 6 : With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes](https://a.co/d/ipFi1Lv)
+  - **Authors**: Sean Whitesell, Rob Richardson, Matthew D. Groves
+  - **Description**: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes" by Whitesell, Richardson, and Groves provides practical insights and examples for developing microservices-based applications using the latest technologies in the .NET ecosystem, including ASP.NET Core 6, MassTransit, and Kubernetes, offering a comprehensive guide to building scalable and resilient distributed systems.
 
-  : [Book Title]
-
-  - **Author**: [Author Name]
-  - **Description**: [Brief description of the book and its relevance to .NET development]
 
 ## Online Courses
 
-- Title
-
-  : [Course Title]
-
-  - **Platform**: [Platform Name, e.g., Udemy, Coursera, Pluralsight]
-  - **Instructor**: [Instructor Name]
-  - **Description**: [Brief description of the course and its content]
+- More coming soon
 
 ## Blogs and Websites
 
-- Title
-
-  : [Blog/Website Name]
-
-  - **URL**: [URL of the blog or website]
-  - **Description**: [Brief description of the blog or website and its focus on .NET development]
+- More coming soon
 
 ## Tools and Libraries
 
-- Name
-
-  : [Tool/Library Name]
-
-  - **Description**: [Brief description of the tool or library and its usefulness for .NET development]
-  - **URL**: [URL to access/download the tool or library]
+- More coming soon
 
 ## Communities and Forums
 
-- Name
+- More coming soon
 
-  : [Community/Forum Name]
-
-  - **Description**: [Brief description of the community or forum and its relevance to .NET developers]
-  - **URL**: [URL to access the community or forum]
 
 ## How to Contribute
 
-We welcome contributions to this list of resources! If you have suggestions for additional books, online courses, blogs, tools, or communities that are valuable for .NET developers, please contribute by following the guidelines outlined in our [Contributing Guide](https://chatgpt.com/c/contributing.md).
+We welcome contributions to this list of resources! If you have suggestions for additional books, online courses, blogs, tools, or communities valuable for .NET developers, please contribute by following the guidelines outlined in our [Contributing Guide](https://chatgpt.com/c/contributing.md).
