@@ -11,13 +11,13 @@ Meetups by year:
 
 | Date              | Topic                                                        | Speaker        |
 | ----------------- | ------------------------------------------------------------ | -------------- |
-| August 22, 2024   | [Season of AI](meetups\2024\08\README.md)                    | Chad Green     |
-| July 18, 2024     | [Empowering AI: Navigating Microsoft's Tools and Techniques](meetups\2024\07\README.md) | David Giard    |
-| June 20, 2024     | [Building awesome console applications in .NET using Specre.Console](meetups\2024\06\README.md) | Michael Easton |
-| May 23, 2024      | [Essential Software Design Patterns](meetups\2024\05\README.md) | Chad Green     |
-| April 18, 2024    | [Finding Bigfoot with JavaScript + Vector Search](meetups\2024\04\README.md) | Guy Royse      |
-| March 28, 2024    | [Accessibility Testing with Screen Readers & More](meetups\2024\03\README.md) | Erissa Duvall  |
-| February 15, 2024 | [Design for Non-Designers from a Non-Designer](meetups\2024\02\README.md) | Jay Harris     |
+| August 22, 2024   | [Season of AI](meetups/2024/08/README.md)                    | Chad Green     |
+| July 18, 2024     | [Empowering AI: Navigating Microsoft's Tools and Techniques](meetups/2024/07/README.md) | David Giard    |
+| June 20, 2024     | [Building awesome console applications in .NET using Specre.Console](meetups/2024/06/README.md) | Michael Easton |
+| May 23, 2024      | [Essential Software Design Patterns](meetups/2024/05/README.md) | Chad Green     |
+| April 18, 2024    | [Finding Bigfoot with JavaScript + Vector Search](meetups/2024/04/README.md) | Guy Royse      |
+| March 28, 2024    | [Accessibility Testing with Screen Readers & More](meetups/2024/03/README.md) | Erissa Duvall  |
+| February 15, 2024 | [Design for Non-Designers from a Non-Designer](meetups/2024/02/README.md) | Jay Harris     |
 
 ## 2023
 

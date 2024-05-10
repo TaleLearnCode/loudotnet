@@ -1,4 +1,4 @@
-# Welcome to the Louisville .NET Meetup!
+# 	Welcome to the Louisville .NET Meetup!
 
 Are you passionate about .NET development or eager to learn more about it? Join us every third Thursday of the month for insightful discussions, engaging presentations, and networking opportunities with fellow .NET enthusiasts in the Louisville area.
 
@@ -15,23 +15,23 @@ Our meetup is a vibrant community dedicated to all things .NET. Whether you're a
 - **Hybrid Setup**: Our hybrid setup ensures everyone can participate and benefit from our meetups regardless of location.
 
 ## Upcoming Meetups
-- **May 23, 2024**: [Essential Software Design Patterns](meetups\2024\05\README.md) 
-- **June 20, 2024**: [Build awesome console applications in .NET using Spectre.Console](meetups\2024\06\README.md) 
-- **July 18, 2024**: [Empowering AI: Navigating Microsoft's Tools and Technologies](meetups\2024\07\README.md) 
+- **May 23, 2024**: [Essential Software Design Patterns](meetups/2024/05/README.md) 
+- **June 20, 2024**: [Build awesome console applications in .NET using Spectre.Console](meetups/2024/06/README.md) 
+- **July 18, 2024**: [Empowering AI: Navigating Microsoft's Tools and Technologies](meetups/2024/07/README.md) 
 
-[See the complete list of meetups.](meetup-schedule.md) 
+[See the complete list of meetups.](schedule.md) 
 
 ## Past Meetups
-- **April 18, 2024**: [Finding Bigfoot with JavaScript + Vector Search](meetups\2024\04\README.md) 
-- **March 28, 2024**: [Accessibility Testing with Screen Readers & More](meetups\2024\03\README.md) 
-- **February 15, 2024**: [Design for Non-Designers from a Non-Designer](meetups\2024\02\README.md) 
+- **April 18, 2024**: [Finding Bigfoot with JavaScript + Vector Search](meetups/2024/04/README.md) 
+- **March 28, 2024**: [Accessibility Testing with Screen Readers & More](meetups/2024/03/README.md) 
+- **February 15, 2024**: [Design for Non-Designers from a Non-Designer](meetups/2024/02/README.md) 
 
-[See the complete list of meetups.](meetup-schedule.md) 
+[See the complete list of meetups.](schedule.md) 
 
 ## Get Involved
 - **Speakers**: Are you interested in sharing your expertise with the community? Learn how to submit a proposal to speak at a future meetup [here](call_for_speakers.md).
 - **Code of Conduct**: All members must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive community.
-- **Meetup Schedule**: View our upcoming and past meetups on the [Meetup Schedule](meetup_schedule.md) page.
+- **Meetup Schedule**: View our upcoming and past meetups on the [Meetup Schedule](schedule.md) page.
 - **Resources**: Explore useful resources for .NET developers on the [Resources](resources.md) page.
 - **Contributors**: Acknowledge and thank individuals who have contributed to the repository on the [Contributors](CONTRIBUTORS.md) page.
 - **License**: View the licensing terms for the content in our repository on the [License](LICENSE) page.
