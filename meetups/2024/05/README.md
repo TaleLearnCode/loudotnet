@@ -23,5 +23,5 @@ Chad Green, a seasoned Senior Software Architect at Jasper Engines & Transmissio
 
 ### Resources
 
-- Slides - Available Afterwards
-- Demo Code Repository - Available Afterward
+- [Slides](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns/blob/main/EventMaterials/EssentialSoftwareDesignPatterns-LouDotNet.pdf)
+- [Demo Code Repository](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns/blob/main/Demos)
