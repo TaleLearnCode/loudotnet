@@ -1,6 +1,6 @@
 # Louisville .NET Meetup August 2024
 
-## Season of AI
+## Generative AI for .NET Developers
 
 - **Date**: August 22, 2024
 - **Time**: 6:30 PM EDT
