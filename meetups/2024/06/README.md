@@ -4,7 +4,7 @@
 
 ## Build Awesome Console Applications Using Spectre.Console
 
-- **Date**: May 20, 2024
+- **Date**: June 20, 2024
 - **Time**: 6:30 PM EDT
 - **Location**: Slingshot (700 N Hurstbourne Pkwy, Louisville, KY)
 - **Meetup.com**: [Build awesome console applications in .NET using Spectre.Console](https://www.meetup.com/louisville-dotnet/events/297627789/)
