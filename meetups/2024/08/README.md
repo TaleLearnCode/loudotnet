@@ -13,11 +13,9 @@ Discover how to use .NET, C#, and Azure to create amazing applications with Open
 
 ### Speakers
 
-#### Chad Green
+#### Phil Japiske
 
-Chad Green, a seasoned Senior Software Architect at Jasper Engines & Transmissions, boasts a distinguished three-decades-long career in building customer-centric solutions. Currently leading the migration of legacy applications to cloud-native technologies, Chad's impactful career includes roles in the senior living, education, healthcare, government, financial, chemical, safety, and consumer goods industries. Beyond his professional pursuits, Chad is a dedicated community leader, having founded and led Code PaLOUsa for 13 years. Recognized as a Microsoft Most Valuable Professional (MVP) in Developer Technologies and Azure, Chad's global influence extends to his active role in organizing meetups and speaking at national and international events. A proud father, loving husband, and a United States Marine Corps veteran, Chad channels his diverse interests into building intricate Lego sets and a detailed Lego city, showcasing his passion for innovation and attention to detail.
-
-[Blog](https://davidgiard.com/)
+An international keynote speaker, Microsoft MVP, ASPInsider, MCSD, PSM II, PSD, PSPO, and PST, and a passionate member of the developer community, Phil Japikse has been working with .NET since the first betas, developing software for over 35 years, and heavily involved in the agile community since 2005 as well as a Professional Scrum Trainer. Phil has taken over the best-selling Pro C# books (Apress Publishing), including "Pro C# 10", is the Lead Director for the Cincinnati .NET User’s Group and the Cincinnati Software Architect Group, co-hosted the Hallway Conversations podcast, founded and runs the CincyDeliver conference, and volunteers for the National Ski Patrol. During the day, Phil works as the CTO for Pintas & Mullins. Phil always enjoys learning new tech and is always striving to improve his craft. You can follow Phil on Twitter and read his blog.
 
 ### Resources
 
