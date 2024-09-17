@@ -1,6 +1,6 @@
 # Louisville .NET Meetup August 2024
 
-## Generative AI for .NET Developers
+## Intro to AI with .NET, OpenAI,  and Semantic Kernel
 
 - **Date**: August 22, 2024
 - **Time**: 6:30 PM EDT
@@ -19,4 +19,4 @@ An international keynote speaker, Microsoft MVP, ASPInsider, MCSD, PSM II, PSD, 
 
 ### Resources
 
-- Available Afterwards
+- [Slides](intro.to.ai.dotnet.pdf)
